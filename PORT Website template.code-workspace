@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../MySQL Practice Code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PORT Website template"
+	}
+}
